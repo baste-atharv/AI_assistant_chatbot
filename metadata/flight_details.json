@@ -1,0 +1,344 @@
+{
+    "flights": [
+        {
+            "flight_number": "AI-101",
+            "airline": "Air India",
+            "departure": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Indira Gandhi International Airport (DEL)", 
+                "city": "Delhi",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "08:30 AM",
+            "arrival_time": "10:45 AM"
+        },
+        {
+            "flight_number": "6E-234",
+            "airline": "IndiGo",
+            "departure": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+                "city": "Mumbai", 
+                "country": "India"
+            },
+            "status": "Delayed",
+            "departure_time": "02:15 PM",
+            "arrival_time": "04:30 PM"
+        },
+        {
+            "flight_number": "SG-267",
+            "airline": "SpiceJet",
+            "departure": {
+                "airport": "Kempegowda International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "11:45 AM",
+            "arrival_time": "01:00 PM"
+        },
+        {
+            "flight_number": "UK-825",
+            "airline": "Vistara",
+            "departure": {
+                "airport": "Indira Gandhi International Airport (DEL)",
+                "city": "Delhi",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+                "city": "Mumbai",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "07:15 AM",
+            "arrival_time": "09:30 AM"
+        },
+        {
+            "flight_number": "6E-567",
+            "airline": "IndiGo",
+            "departure": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "09:30 AM",
+            "arrival_time": "10:45 AM"
+        },
+        {
+            "flight_number": "AI-802",
+            "airline": "Air India",
+            "departure": {
+                "airport": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+                "city": "Mumbai",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "status": "Delayed",
+            "departure_time": "03:45 PM",
+            "arrival_time": "05:30 PM"
+        },
+        {
+            "flight_number": "SG-401",
+            "airline": "SpiceJet",
+            "departure": {
+                "airport": "Kolkata Airport (CCU)",
+                "city": "Kolkata",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Indira Gandhi International Airport (DEL)",
+                "city": "Delhi",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "06:00 AM",
+            "arrival_time": "08:15 AM"
+        },
+        {
+            "flight_number": "UK-722",
+            "airline": "Vistara",
+            "departure": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Kolkata Airport (CCU)",
+                "city": "Kolkata",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "10:30 AM",
+            "arrival_time": "01:15 PM"
+        },
+        {
+            "flight_number": "6E-445",
+            "airline": "IndiGo",
+            "departure": {
+                "airport": "Hyderabad Airport (HYD)",
+                "city": "Hyderabad",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "11:00 AM",
+            "arrival_time": "12:15 PM"
+        },
+        {
+            "flight_number": "AI-512",
+            "airline": "Air India",
+            "departure": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Hyderabad Airport (HYD)",
+                "city": "Hyderabad",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "02:30 PM",
+            "arrival_time": "04:00 PM"
+        },
+        {
+            "flight_number": "UK-334",
+            "airline": "Vistara",
+            "departure": {
+                "airport": "Indira Gandhi International Airport (DEL)",
+                "city": "Delhi",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "status": "Delayed",
+            "departure_time": "04:15 PM",
+            "arrival_time": "07:00 PM"
+        },
+        {
+            "flight_number": "SG-678",
+            "airline": "SpiceJet",
+            "departure": {
+                "airport": "Mumbai International Airport (BOM)",
+                "city": "Mumbai",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Kolkata Airport (CCU)",
+                "city": "Kolkata",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "07:45 AM",
+            "arrival_time": "10:30 AM"
+        },
+        {
+            "flight_number": "6E-789",
+            "airline": "IndiGo",
+            "departure": {
+                "airport": "Hyderabad Airport (HYD)",
+                "city": "Hyderabad",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "01:30 PM",
+            "arrival_time": "03:00 PM"
+        },
+        {
+            "flight_number": "AI-456",
+            "airline": "Air India",
+            "departure": {
+                "airport": "Kolkata Airport (CCU)",
+                "city": "Kolkata",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Mumbai International Airport (BOM)",
+                "city": "Mumbai",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "05:30 PM",
+            "arrival_time": "08:15 PM"
+        },
+        {
+            "flight_number": "UK-901",
+            "airline": "Vistara",
+            "departure": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Kolkata Airport (CCU)",
+                "city": "Kolkata",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "08:00 AM",
+            "arrival_time": "10:30 AM"
+        },
+        {
+            "flight_number": "SG-234",
+            "airline": "SpiceJet",
+            "departure": {
+                "airport": "Bangalore International Airport (BLR)",
+                "city": "Bangalore",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Hyderabad Airport (HYD)",
+                "city": "Hyderabad",
+                "country": "India"
+            },
+            "status": "Delayed",
+            "departure_time": "12:45 PM",
+            "arrival_time": "02:00 PM"
+        },
+        {
+            "flight_number": "6E-345",
+            "airline": "IndiGo",
+            "departure": {
+                "airport": "Mumbai International Airport (BOM)",
+                "city": "Mumbai",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "09:15 AM",
+            "arrival_time": "11:30 AM"
+        },
+        {
+            "flight_number": "AI-678",
+            "airline": "Air India",
+            "departure": {
+                "airport": "Hyderabad Airport (HYD)",
+                "city": "Hyderabad",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Indira Gandhi International Airport (DEL)",
+                "city": "Delhi",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "06:30 AM",
+            "arrival_time": "09:00 AM"
+        },
+        {
+            "flight_number": "UK-543",
+            "airline": "Vistara",
+            "departure": {
+                "airport": "Kolkata Airport (CCU)",
+                "city": "Kolkata",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Hyderabad Airport (HYD)",
+                "city": "Hyderabad",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "03:15 PM",
+            "arrival_time": "05:45 PM"
+        },
+        {
+            "flight_number": "SG-890",
+            "airline": "SpiceJet",
+            "departure": {
+                "airport": "Delhi International Airport (DEL)",
+                "city": "Delhi",
+                "country": "India"
+            },
+            "arrival": {
+                "airport": "Chennai International Airport (MAA)",
+                "city": "Chennai",
+                "country": "India"
+            },
+            "status": "On Time",
+            "departure_time": "01:00 PM",
+            "arrival_time": "03:45 PM"
+        }
+    ]
+}
